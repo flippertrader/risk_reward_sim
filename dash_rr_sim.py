@@ -23,8 +23,8 @@ def main():
         st.win_in_ticks  = st.number_input("Average win in ticks.", value=20)
         st.loss_in_ticks  = st.number_input("Average loss in ticks.", value=10)
         st.write("Tests")
-        st.total_trades = st.number_input("Trades per test", value=100 )
-        st.total_sims = st.number_input("Simnulations to run", value=100 )
+        st.total_trades = st.number_input("Trades per test", value=200 )
+        st.total_sims = st.number_input("Simnulations to run", value=500 )
 
     sim_result = []
     for i in range(st.total_sims):
