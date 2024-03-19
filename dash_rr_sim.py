@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 18/03/2024 7:52 pm
-# @Author : trembles
+# @Author : flippertrader
 # @File : dash_rr_sim.py
 
 
